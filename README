@@ -1,5 +1,5 @@
 akıllı sokak lambası için tasarlanmıştır.
-Esp32 - Esp8266 arasında gerçekleşecek olan EspNow haberleşmesiiçin maste modül (esp23) içindir.
-haberleşme içerisinde mac adresleri kullanılacağı için öncelikle mac adreslerini öğrenmelisiniz.
-Sistem içerisinde I2c lcd ekran, ldr, potansiyometre gibi elemanlar yer almaktadır.Bu elemanları kodda belirtildiği şekilde bağlamalısınız.
+Esp32 - Esp8266 arasında gerçekleşecek olan EspNow haberleşmesi için master modül (esp23) içindir.
+Haberleşme içerisinde mac adresleri kullanılacağı için öncelikle mac adreslerini öğrenmelisiniz.
+Sistem içerisinde I2C lcd ekran, LDR, potansiyometre gibi elemanlar yer almaktadır.Bu elemanları kodda belirtildiği şekilde bağlamalısınız.
 not: espNow habrleşmesi yaparken I2C ekran kullanmanız tavsiye edilir.
